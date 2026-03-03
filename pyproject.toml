@@ -1,0 +1,8 @@
+[project]
+name = "calculator"
+version = "0.1.0"
+description = "云端调度测试 - Python 计算器库"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+test = ["pytest"]
